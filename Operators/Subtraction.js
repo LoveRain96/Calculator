@@ -1,0 +1,12 @@
+// class Subtraction {
+//     run (number1,number2) {
+//         return number1 - number2;
+//     }
+// }
+// module.exports =Subtraction;
+class Subtraction {
+    run (number1,number2) {
+        return number1 - number2;
+    }
+}
+module.exports = Subtraction;
